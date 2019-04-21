@@ -1,0 +1,83 @@
+.active-btn{background: #007bff !important;color:white !important;}
+.btn-personal {
+    border-radius: 0%;
+    color: #007bff;
+    background: white;
+    font-weight: bolder;
+    padding: 1%;
+    border: none;
+    cursor: pointer;
+    margin-left: 2px;
+    margin-right: 2px;
+}
+.fixed-action-btn {
+    position: fixed;
+    right: 23px;
+    bottom: 23px;
+    padding-top: 15px;
+    margin-bottom: 0;
+    z-index: 998;
+}
+* {
+    outline: none;
+}
+.btn-floating.btn-large {
+    width: 55.5px;
+    height: 55.5px;
+}
+
+.btn-floating {
+    display: inline-block;
+    color: #fff;
+    position: relative;
+    overflow: hidden;
+    z-index: 1;
+    width: 37px;
+    height: 37px;
+    line-height: 37px;
+    padding: 0;
+    background-color: #007bff;
+    border-radius: 50%;
+    transition: .3s;
+    cursor: pointer;
+    vertical-align: middle;
+}
+.click_link > a {
+    background-color: #007bff;
+    border-color: #007bff;
+    font-weight: bolder;
+    margin-left: 5px;
+    margin-right: 5px;
+    padding-top: 1px;
+    padding-left: 8px;
+    padding-right: 8px;
+    color: white;
+    border-radius: 3px;
+}
+.center-me-btn{text-align:center;margin-left:40%;}
+.btn_more{margin-left:400%;}
+.student-image > img{width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    border: 1px solid #CCC;}
+.student-image{text-align: center;background-size: cover;
+    padding-top: 30px;
+    padding-bottom: 40px;background-repeat:no-repeat;}
+.student-further-details{text-align: center;}
+.profile-stat{ 
+    background-color: #007bff;
+}
+.stat-item{text-align: center;
+    color: white;
+    font-weight: bolder;
+    padding-top: 20px;
+    padding-bottom: 20px;}
+    .animation-ajax-loader{text-align:center;background:#CCC;z-index:3000;top:0;bottom:0;width:100%;position:fixed;display:none;}
+    .animation-ajax-loader > img{margin-top:200px;}
+    .accordion-second > li{display:inline-block;list-style: none;}
+    .content-display-topics{height: 200px;max-height: 200px;
+        overflow: auto;
+        border: 1px solid rgb(239, 239, 239);
+        margin-bottom: 10px;}
+    .change-look{background:#007bff;} .header-topic-design-class{color:white;} .delete-topic{color:white !important;}
+    .btn-res{padding-left: 5px;padding-right: 5px;border-radius: 3px;background-color: rgb(0, 123, 255);color: white;margin-top: 10px;}
